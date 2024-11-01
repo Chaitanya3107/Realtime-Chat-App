@@ -1,4 +1,4 @@
-# Realtime Chat a\App
+# Realtime Chat App
 
 A new Flutter project.
 
